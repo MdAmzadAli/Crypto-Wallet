@@ -4,7 +4,7 @@ Just put your mnemonic or address in the import wallet section and wait for the 
 
 for running 
 - open the frontend folder in terminal and then run the following commandings:
-`
+```
 npm install
 npm run dev
-`
+```
